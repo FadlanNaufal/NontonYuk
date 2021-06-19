@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462907739703",
+    "project_id": "nontonyuk-93ba9",
+    "storage_bucket": "nontonyuk-93ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462907739703:android:be7d7ae7296c84525d39b2",
+        "android_client_info": {
+          "package_name": "com.fadlandev.nontonyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462907739703-gs21mvvr69ubrvltn9nvjvm9smr0j13t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LlXOtmwXIhXiym_oAY8I2D07R1awRwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462907739703-gs21mvvr69ubrvltn9nvjvm9smr0j13t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
